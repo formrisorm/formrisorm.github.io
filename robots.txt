@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://formrisorm.github.io/sitemap.xml
